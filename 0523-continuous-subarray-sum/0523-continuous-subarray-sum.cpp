@@ -10,7 +10,7 @@ public:
             sum+=nums[i];
             int rem=sum%k;
             if(mp.find(rem)!=mp.end()){
-                if(i-mp[rem]>1) return true;
+                if(i-mp[rem]>=2) return true;
             }
             else mp[rem]=i;
         }

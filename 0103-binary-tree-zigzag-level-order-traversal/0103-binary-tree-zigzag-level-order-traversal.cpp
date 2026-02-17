@@ -16,19 +16,21 @@ public:
         queue<TreeNode*> q;
         if(root==nullptr)return ans;
         q.push(root);
-        int j=0;
+        bool ltr=true;
         while(!q.empty()){
             int size=q.size();
-            vector<int>level;
-            j++;
+            vector<int>level(size);
             for(int i=0;i<size;i++){
                 TreeNode* res=q.front();
                 q.pop();
+                
                 if(res->left)q.push(res->left);
                 if(res->right)q.push(res->right);
-                level.push_back(res->val);
+                int k=ltr ? i : size-i-1;
+                level[k]=(res->val);
             }
-            if(j%2==0)reverse(level.begin(),level.end());
+            //if(j%2==0)reverse(level.begin(),level.end());
+            ltr=!ltr;
             ans.push_back(level);
         }
         return ans;

@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -50,4 +52,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 <!---LeetCode Topics End-->

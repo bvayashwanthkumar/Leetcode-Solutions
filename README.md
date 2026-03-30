@@ -98,5 +98,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1603-design-parking-system](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->

@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

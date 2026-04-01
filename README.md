@@ -14,12 +14,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0611-valid-triangle-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Hash Table
@@ -111,4 +114,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->

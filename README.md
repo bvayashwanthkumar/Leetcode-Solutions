@@ -131,4 +131,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->

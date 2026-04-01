@@ -1,34 +1,33 @@
 class Solution {
 public:
 
-    void dfs(vector<vector<char>>&grid,vector<vector<bool>>&vis,int x,int y,int m,int n){
-        vis[x][y]=true;
-        vector<pair<int,int>> directions={{-1,0},{0,-1},{1,0},{0,1}};
+    void dfs(vector<vector<char>>& grid,int i,int j){
+        int n=grid.size();
+        int m=grid[0].size();
 
-        for(auto dir : directions){
-            int xnew=x+dir.first;
-            int ynew=y+dir.second;
-            if(0<= xnew && xnew < m && 0<=ynew&& ynew<n && !vis[xnew][ynew] && grid[xnew][ynew]=='1'){
-                dfs(grid,vis,xnew,ynew,m,n);
-            }
-        }
+        if(i<0 || j<0 || i>=n || j>=m || grid[i][j]=='0')return;
+
+        grid[i][j]='0';
+
+        dfs(grid,i+1,j);
+        dfs(grid,i-1,j);
+        dfs(grid,i,j+1);
+        dfs(grid,i,j-1);
     }
-
     int numIslands(vector<vector<char>>& grid) {
-     int m=grid.size();
-     int n=grid[0].size();
-     int count=0;
+        int n=grid.size();
+        int m=grid[0].size();
+        int count=0;
 
-     vector<vector<bool>> visited(m,vector<bool> (n,false));
-
-     for(int i=0;i<m;i++){
-        for(int j=0;j<n;j++){
-            if(grid[i][j]=='1' && !visited[i][j]){
-                count++;
-                dfs(grid,visited,i,j,m,n);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]=='1'){
+                    count++;
+                    dfs(grid,i,j);
+                }
             }
         }
-     }
-     return count;
+        return count;
+
     }
 };

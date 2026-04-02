@@ -55,17 +55,16 @@ public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.size()==0)return nullptr;
         if(lists.size()==1)return lists[0];
-        ListNode* head=lists[0];
+       
          int n = lists.size();
-    while(n > 1){
-        int k = (n + 1) / 2;
-        for(int i = 0; i < n/2; i++){
-            lists[i] = merge(lists[i], lists[i + k]);
+        while(n > 1){
+            int k = (n + 1) / 2;
+            for(int i = 0; i < n/2; i++){
+                lists[i] = merge(lists[i], lists[i + k]);
+            }
+            n = k;
         }
-        n = k;
-    }
-    return lists[0];
-        return head;
+    return lists[0]
     
     }
 };

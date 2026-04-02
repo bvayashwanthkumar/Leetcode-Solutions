@@ -64,7 +64,7 @@ public:
             }
             n = k;
         }
-    return lists[0]
+        return lists[0];
     
     }
 };

@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer

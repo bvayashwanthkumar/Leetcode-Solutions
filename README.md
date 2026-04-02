@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
@@ -150,4 +152,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->

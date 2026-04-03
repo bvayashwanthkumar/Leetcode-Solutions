@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0463-island-perimeter](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0611-valid-triangle-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
@@ -180,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->

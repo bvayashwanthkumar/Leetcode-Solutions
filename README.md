@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0463-island-perimeter](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0611-valid-triangle-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0695-max-area-of-island](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1603-design-parking-system](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -185,4 +187,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->

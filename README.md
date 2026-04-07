@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -23,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -33,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Array
 | Problem Name | Difficulty |

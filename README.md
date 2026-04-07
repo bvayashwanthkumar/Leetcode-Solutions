@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0521-longest-uncommon-subsequence-i](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0752-open-the-lock](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [2129-capitalize-the-title](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

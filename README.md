@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0521-longest-uncommon-subsequence-i](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0752-open-the-lock](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 ## Sliding Window

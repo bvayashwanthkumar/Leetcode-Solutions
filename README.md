@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [1446-consecutive-characters](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [2129-capitalize-the-title](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |

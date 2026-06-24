@@ -11,18 +11,14 @@ public:
                 one++;
                 maxone=max(maxone,one);
             }
-            else{
-                
-                one=0;
-            }
+            else one=0;
+        
             if(s[i]==s[i+1] && s[i]=='0'){
                 zero++;
                 maxzero=max(maxzero,zero);
             }
-            else{
-               
-                zero=0;
-            }
+            else zero=0;
+            
 
         }
         if(maxone==maxzero)return false;

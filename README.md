@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0058-length-of-last-word](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0520-detect-capital](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |

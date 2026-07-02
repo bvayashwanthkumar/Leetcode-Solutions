@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0611-valid-triangle-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 ## Sorting
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |

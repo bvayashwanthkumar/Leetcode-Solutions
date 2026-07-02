@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0752-open-the-lock](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
+| [0242-valid-anagram](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0611-valid-triangle-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0242-valid-anagram](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0520-detect-capital](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |

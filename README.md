@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0752-open-the-lock](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0611-valid-triangle-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |

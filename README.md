@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0611-valid-triangle-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1446-consecutive-characters](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [2129-capitalize-the-title](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

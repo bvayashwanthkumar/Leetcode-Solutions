@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0752-open-the-lock](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [2129-capitalize-the-title](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |

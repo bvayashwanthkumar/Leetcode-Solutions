@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion

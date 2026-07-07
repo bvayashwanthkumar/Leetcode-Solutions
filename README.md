@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -266,12 +268,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

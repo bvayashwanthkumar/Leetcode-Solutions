@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0752-open-the-lock](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

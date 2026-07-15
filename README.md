@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,4 +333,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->

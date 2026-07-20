@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0463-island-perimeter](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -320,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream

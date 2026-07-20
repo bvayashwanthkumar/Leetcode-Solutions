@@ -12,12 +12,12 @@
 class Solution {
 public:
 
-    bool isvalidnode(TreeNode* root, long maxs,long mins){
+    bool valid(TreeNode* root,long long min,long long max){
         if(!root)return true;
-        if(root->val >= maxs || root->val<=mins)return false;
-        return isvalidnode(root->left,root->val,mins) && isvalidnode(root->right,maxs,root->val);
+        if(root->val <= min || root->val>=max)return false;
+        return valid(root->left,min,root->val) && valid(root->right,root->val,max);
     }
     bool isValidBST(TreeNode* root) {
-        return isvalidnode(root,LONG_MAX,LONG_MIN);
+        return valid(root,LLONG_MIN,LLONG_MAX);
     }
 };

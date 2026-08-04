@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1109-corporate-flight-bookings](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3731-find-missing-elements](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3731-find-missing-elements](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3731-find-missing-elements](https://github.com/bvayashwanthkumar/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
